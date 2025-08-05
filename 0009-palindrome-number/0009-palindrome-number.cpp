@@ -2,14 +2,14 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         if(x<0){
-            return false;
+           return false;
         }
-        long n=0;
-        long copy=x;
-        while(copy){
-            n=(copy%10)+(n*10);
-            copy=copy/10;
-        }
-        return(n==x);
+        long reversed=0;//121
+        int y=x;//1
+         while(y>0){
+            reversed=reversed*10+y%10;//1
+            y/=10;
+         }
+         return reversed==x;
     }
 };
