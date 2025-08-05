@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/chandru39/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandru39/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/chandru39/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandru39/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
