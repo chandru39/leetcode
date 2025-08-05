@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandru39/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandru39/leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
