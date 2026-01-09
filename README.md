@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/chandru39/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/chandru39/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chandru39/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
@@ -33,6 +34,7 @@
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandru39/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
