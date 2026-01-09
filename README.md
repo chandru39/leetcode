@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/chandru39/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandru39/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -32,6 +33,7 @@
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
