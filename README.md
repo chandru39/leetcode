@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/chandru39/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chandru39/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
@@ -38,6 +39,7 @@
 | [0012-integer-to-roman](https://github.com/chandru39/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chandru39/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/chandru39/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
@@ -125,5 +127,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
