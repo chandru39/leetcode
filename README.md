@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chandru39/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/chandru39/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chandru39/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
