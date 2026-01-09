@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/chandru39/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/chandru39/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandru39/leetcode/tree/master/0374-guess-number-higher-or-lower) |
