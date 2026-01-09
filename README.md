@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/chandru39/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandru39/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/chandru39/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandru39/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
@@ -27,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/chandru39/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/chandru39/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chandru39/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
