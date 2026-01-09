@@ -23,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/chandru39/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/chandru39/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -30,6 +31,7 @@
 | [0020-valid-parentheses](https://github.com/chandru39/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 | [0101-symmetric-tree](https://github.com/chandru39/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandru39/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/chandru39/leetcode/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
