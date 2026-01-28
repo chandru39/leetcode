@@ -1,27 +1,30 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dH = new ListNode(-1);
-        ListNode newHead = dH;
-        int carry = 0;
-        
-        while(l1!=null || l2!=null) {
-            int a = l1 == null ? 0 : l1.val;
-            int b = l2 == null ? 0 : l2.val;
-            
-            if(l1!=null) l1 = l1.next;
-            if(l2!=null) l2 = l2.next;
-            
-            int sum = a + b + carry;
-            carry = sum/10;
-            
-            ListNode newNode = new ListNode(sum%10);
-            dH.next = newNode;
-            dH = newNode;
+        ListNode dummy = new ListNode(0);  
+        ListNode curr = dummy;              
+        int carry = 0;                      
+        while (l1 != null || l2 != null || carry != 0) {
+            int val1 = (l1 != null) ? l1.val : 0;   // l1 null na 0
+            int val2 = (l2 != null) ? l2.val : 0;   // l2 null na 0
+            int sum = val1 + val2 + carry;          // sum = val1 + val2 + carry
+            carry = sum / 10;                       // carry = sum / 10
+            curr.next = new ListNode(sum % 10);     // new node (sum % 10)
+            curr = curr.next;                       // curr move
+            if (l1 != null)
+                l1 = l1.next;
+            if (l2 != null)
+                l2 = l2.next;
         }
-        
-        if(carry!=0) {
-            dH.next = new ListNode(carry);
-        }
-        return newHead.next;
+        return dummy.next;   
     }
 }
