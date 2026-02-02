@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/chandru39/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chandru39/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandru39/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/chandru39/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/chandru39/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/chandru39/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chandru39/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandru39/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/chandru39/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/chandru39/leetcode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/chandru39/leetcode/tree/master/0234-palindrome-linked-list) |
