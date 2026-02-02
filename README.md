@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/chandru39/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandru39/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chandru39/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/chandru39/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/chandru39/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/chandru39/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
@@ -111,6 +112,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/chandru39/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/chandru39/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
