@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandru39/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/chandru39/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 ## Math
@@ -43,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandru39/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -123,6 +126,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/chandru39/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/chandru39/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chandru39/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandru39/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -133,6 +137,7 @@
 | [0088-merge-sorted-array](https://github.com/chandru39/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/chandru39/leetcode/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
@@ -183,6 +188,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
