@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chandru39/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandru39/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
 ## Enumeration
 |  |
 | ------- |
