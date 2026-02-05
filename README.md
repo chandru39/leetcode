@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chandru39/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@
 | [0242-valid-anagram](https://github.com/chandru39/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
 | ------- |
