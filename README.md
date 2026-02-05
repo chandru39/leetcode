@@ -49,6 +49,7 @@
 | [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chandru39/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/chandru39/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chandru39/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -138,6 +139,7 @@
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chandru39/leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/chandru39/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/chandru39/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
 ## Sorting
