@@ -45,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/chandru39/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
@@ -93,6 +94,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/chandru39/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chandru39/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/chandru39/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/chandru39/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -189,6 +191,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
