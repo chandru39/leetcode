@@ -46,6 +46,7 @@
 | [0202-happy-number](https://github.com/chandru39/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/chandru39/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/chandru39/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/chandru39/leetcode/tree/master/1013-fibonacci-number) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/chandru39/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/chandru39/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/chandru39/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/chandru39/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/chandru39/leetcode/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
