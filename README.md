@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandru39/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/chandru39/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/chandru39/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -213,4 +214,12 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/chandru39/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chandru39/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/chandru39/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
