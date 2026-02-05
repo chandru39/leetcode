@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chandru39/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/chandru39/leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@
 | [0268-missing-number](https://github.com/chandru39/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/chandru39/leetcode/tree/master/0414-third-maximum-number) |
 ## Memoization
 |  |
 | ------- |
