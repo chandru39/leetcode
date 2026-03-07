@@ -22,6 +22,7 @@
 | [0414-third-maximum-number](https://github.com/chandru39/leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/chandru39/leetcode/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandru39/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/chandru39/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandru39/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/chandru39/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/chandru39/leetcode/tree/master/0389-find-the-difference) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/chandru39/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
