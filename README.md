@@ -14,6 +14,7 @@
 | [0059-spiral-matrix-ii](https://github.com/chandru39/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/chandru39/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/chandru39/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandru39/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandru39/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandru39/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/chandru39/leetcode/tree/master/0204-count-primes) |
@@ -122,6 +123,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/chandru39/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/chandru39/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/chandru39/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandru39/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/chandru39/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandru39/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandru39/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/chandru39/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,6 +203,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/chandru39/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandru39/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandru39/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/chandru39/leetcode/tree/master/0226-invert-binary-tree) |
 ## Simulation
 |  |
@@ -251,4 +255,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chandru39/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/chandru39/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chandru39/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
